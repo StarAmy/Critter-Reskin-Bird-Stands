@@ -1,0 +1,13 @@
+﻿{
+	"Name": "[DGA] Natural Terrarium Project - Critter Reskin Bird Displays",
+	"Author": "StarAmy",
+	"Version": "1.0",
+	"Description": "Several purchaseable and craftable pet birds for DGA to match my critter reskin.",
+	"UniqueID": "staramy.reskinbirds",
+	"MinimumApiVersion": "3.13.0",
+	"ContentPackFor": {
+		"UniqueID": "spacechase0.DynamicGameAssets"
+	},
+	"DGA.FormatVersion": 2,
+	"DGA.ConditionsFormatVersion": "1.23.0"
+}

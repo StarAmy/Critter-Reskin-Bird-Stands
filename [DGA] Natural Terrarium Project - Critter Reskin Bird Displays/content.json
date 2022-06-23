@@ -1,0 +1,353 @@
+[
+
+	{
+		"$ItemType": "Furniture",
+		"ID": "Hyacinth Macaw on Stand",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/bird stands.png:0@80, assets/bird stands.png:2@10, assets/bird stands.png:3@10, assets/bird stands.png:2@10, assets/bird stands.png:0@60, assets/bird stands.png:11@10, assets/bird stands.png:0@80, assets/bird stands.png:7@8, assets/bird stands.png:6@8, assets/bird stands.png:7@8, assets/bird stands.png:0@8, assets/bird stands.png:5@8, assets/bird stands.png:0@60, assets/bird stands.png:11@10, assets/bird stands.png:0@60, assets/bird stands.png:9@30, assets/bird stands.png:10@500, assets/bird stands.png:9@30, assets/bird stands.png:0@60, assets/bird stands.png:11@10, assets/bird stands.png:0@60, assets/bird stands.png:11@10, assets/bird stands.png:0@60, assets/bird stands.png:1@10, assets/bird stands.png:0@60, assets/bird stands.png:11@10, assets/bird stands.png:0@60, assets/bird stands.png:7@10, assets/bird stands.png:4@60, assets/bird stands.png:5@10, assets/bird stands.png:0@60, assets/bird stands.png:8@30",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 1
+			}
+		]
+	},	
+	{
+		"$ItemType": "Furniture",
+		"ID": "Military Macaw on Stand",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/bird stands.png:12@80, assets/bird stands.png:19@8, assets/bird stands.png:18@8, assets/bird stands.png:19@8, assets/bird stands.png:12@8, assets/bird stands.png:17@8, assets/bird stands.png:12@60, assets/bird stands.png:23@10, assets/bird stands.png:12@60, assets/bird stands.png:21@30, assets/bird stands.png:22@500, assets/bird stands.png:21@30, assets/bird stands.png:12@60, assets/bird stands.png:23@10, assets/bird stands.png:12@60, assets/bird stands.png:13@10, assets/bird stands.png:12@60, assets/bird stands.png:23@10, assets/bird stands.png:12@60, assets/bird stands.png:19@10, assets/bird stands.png:16@60, assets/bird stands.png:17@10, assets/bird stands.png:12@60, assets/bird stands.png:20@30, assets/bird stands.png:12@60, assets/bird stands.png:23@10, assets/bird stands.png:12@80, assets/bird stands.png:14@10, assets/bird stands.png:15@10, assets/bird stands.png:14@10, assets/bird stands.png:12@60, assets/bird stands.png:23@10",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 1
+			}
+		]
+	},	
+	{
+		"$ItemType": "Furniture",
+		"ID": "Blue and Gold Macaw on Stand",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/bird stands.png:24@60, assets/bird stands.png:33@30, assets/bird stands.png:34@500, assets/bird stands.png:33@30, assets/bird stands.png:24@60, assets/bird stands.png:35@10, assets/bird stands.png:24@60, assets/bird stands.png:25@10, assets/bird stands.png:24@60, assets/bird stands.png:35@10, assets/bird stands.png:24@60, assets/bird stands.png:31@10, assets/bird stands.png:28@60, assets/bird stands.png:29@10, assets/bird stands.png:24@60, assets/bird stands.png:32@30, assets/bird stands.png:24@60, assets/bird stands.png:35@10, assets/bird stands.png:24@80, assets/bird stands.png:26@10, assets/bird stands.png:27@10, assets/bird stands.png:26@10, assets/bird stands.png:24@60, assets/bird stands.png:35@10, assets/bird stands.png:24@80, assets/bird stands.png:31@8, assets/bird stands.png:30@8, assets/bird stands.png:31@8, assets/bird stands.png:24@8, assets/bird stands.png:29@8, assets/bird stands.png:24@60, assets/bird stands.png:35@10",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 1
+			}
+		]
+	},	
+	{
+		"$ItemType": "Furniture",
+		"ID": "Scarlet Macaw on Stand",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/bird stands.png:36@60, assets/bird stands.png:37@10, assets/bird stands.png:36@60, assets/bird stands.png:47@10, assets/bird stands.png:36@60, assets/bird stands.png:43@10, assets/bird stands.png:40@60, assets/bird stands.png:41@10, assets/bird stands.png:36@60, assets/bird stands.png:44@30,assets/bird stands.png:36@60, assets/bird stands.png:47@10, assets/bird stands.png:36@80, assets/bird stands.png:38@10, assets/bird stands.png:39@10, assets/bird stands.png:38@10, assets/bird stands.png:36@60, assets/bird stands.png:47@10, assets/bird stands.png:36@80, assets/bird stands.png:43@8, assets/bird stands.png:42@8, assets/bird stands.png:43@8, assets/bird stands.png:36@8, assets/bird stands.png:41@8, assets/bird stands.png:36@60, assets/bird stands.png:47@10, assets/bird stands.png:36@60, assets/bird stands.png:45@30, assets/bird stands.png:46@500, assets/bird stands.png:45@30, assets/bird stands.png:36@60, assets/bird stands.png:47@10",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 1
+			}
+		]
+	},		
+	{
+		"$ItemType": "Furniture",
+		"ID": "Crow on Stand",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/small bird stands.png:0@80, assets/small bird stands.png:11@10, assets/small bird stands.png:0@80, assets/small bird stands.png:9@10, assets/small bird stands.png:0@80, assets/small bird stands.png:1@10, assets/small bird stands.png:2@10, assets/small bird stands.png:1@10, assets/small bird stands.png:0@80, assets/small bird stands.png:7@30, assets/small bird stands.png:0@80, assets/small bird stands.png:11@10, assets/small bird stands.png:0@80, assets/small bird stands.png:3@20, assets/small bird stands.png:0@80, assets/small bird stands.png:10@10, assets/small bird stands.png:0@80, assets/small bird stands.png:11@10, assets/small bird stands.png:0@80, assets/small bird stands.png:5@20, assets/small bird stands.png:6@600, assets/small bird stands.png:5@60, assets/small bird stands.png:8@60",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			}
+		]
+	},	
+	{
+		"$ItemType": "Furniture",
+		"ID": "Seagull on Stand",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/small bird stands.png:12@60, assets/small bird stands.png:13@10, assets/small bird stands.png:12@10, assets/small bird stands.png:12@20, assets/small bird stands.png:17@20, assets/small bird stands.png:12@60, assets/small bird stands.png:13@10, assets/small bird stands.png:12@60, assets/small bird stands.png:15@8, assets/small bird stands.png:14@8, assets/small bird stands.png:15@8, assets/small bird stands.png:12@60, assets/small bird stands.png:13@10, assets/small bird stands.png:12@60, assets/small bird stands.png:18@10, assets/small bird stands.png:19@10, assets/small bird stands.png:20@10, assets/small bird stands.png:21@10, assets/small bird stands.png:22@10, assets/small bird stands.png:21@10, assets/small bird stands.png:22@10, assets/small bird stands.png:21@10, assets/small bird stands.png:20@10, assets/small bird stands.png:19@10, assets/small bird stands.png:18@10, assets/small bird stands.png:12@60, assets/small bird stands.png:13@10,  assets/small bird stands.png:12@60, assets/small bird stands.png:16@20, assets/small bird stands.png:12@60, assets/small bird stands.png:13@20, assets/small bird stands.png:23@500",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			}
+		]
+	},	
+	{
+		"$ItemType": "Furniture",
+		"ID": "Horned Owl on Stand",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/small bird stands.png:24@100, assets/small bird stands.png:27@20, assets/small bird stands.png:24@100, assets/small bird stands.png:25@100, assets/small bird stands.png:24@100, assets/small bird stands.png:27@20, assets/small bird stands.png:26@1000, assets/small bird stands.png:27@20, assets/small bird stands.png:30@40, assets/small bird stands.png:31@40, assets/small bird stands.png:32@40, assets/small bird stands.png:24@100, assets/small bird stands.png:27@20, assets/small bird stands.png:24@100, assets/small bird stands.png:29@20, assets/small bird stands.png:28@20, assets/small bird stands.png:24@100, assets/small bird stands.png:27@20, assets/small bird stands.png:24@100, assets/small bird stands.png:33@20, assets/small bird stands.png:34@20, assets/small bird stands.png:35@20, assets/small bird stands.png:34@20, assets/small bird stands.png:33@20",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			}
+		]
+	},
+	{
+		"$ItemType": "CraftingRecipe",
+		"ID": "Horned Owl on Stand Recipe",
+		"IsCooking": "false",
+		"KnownByDefault": "true",
+		"Ingredients":  [
+			{
+	    "Type": "VanillaObject",
+ 		"Value": "709",
+ 	    },
+    	{
+        "Type": "ContextTag",
+ 		"Value": "bird_horned_owl",
+        "NameOverride": "A horned owl that seems fairly tame.",
+        "IconOverride": "assets/objects.png:0"
+        	}
+    		],
+		"Result":  [
+			{
+        		"Weight": 10,
+        		"Value": {
+            		"Type": "DGAItem",
+            		"Value": "staramy.reskinbirds/Horned Owl on Stand"
+        		}
+    	}
+    	],
+	},
+	{
+		"$ItemType": "CraftingRecipe",
+		"ID": "Crow on Stand Recipe",
+		"IsCooking": "false",
+		"KnownByDefault": "true",
+		"Ingredients":  [
+		{
+	    "Type": "VanillaObject",
+ 		"Value": "709",
+ 	    },
+    	{
+        "Type": "ContextTag",
+ 		"Value": "bird_crow",
+        "NameOverride": "A crow that seems fairly tame.",
+        "IconOverride": "assets/objects.png:1"
+        	}
+    		],
+		"Result":  [
+			{
+        		"Weight": 10,
+        		"Value": {
+            		"Type": "DGAItem",
+            		"Value": "staramy.reskinbirds/Crow on Stand"
+        		}
+    	}
+    	],
+	},
+	{
+		"$ItemType": "CraftingRecipe",
+		"ID": "Seagull on Stand Recipe",
+		"IsCooking": "false",
+		"KnownByDefault": "true",
+		"Ingredients":  [
+		{
+	    "Type": "VanillaObject",
+ 		"Value": "709",
+ 	    },
+    	{
+        "Type": "ContextTag",
+ 		"Value": "bird_seagull",
+        "NameOverride": "A seagull that seems fairly tame.",
+        "IconOverride": "assets/objects.png:2"
+        	}
+    		],
+		"Result":  [
+			{
+        		"Weight": 10,
+        		"Value": {
+            		"Type": "DGAItem",
+            		"Value": "staramy.reskinbirds/Seagull on Stand"
+        		}
+    	}
+    	],
+	},
+	{
+		"$ItemType": "CraftingRecipe",
+		"ID": "Military Macaw on Stand Recipe",
+		"IsCooking": "false",
+		"KnownByDefault": "true",
+		"Ingredients":  [
+		{
+	    "Type": "VanillaObject",
+ 		"Value": "709",
+ 	    },
+    	{
+        "Type": "ContextTag",
+ 		"Value": "bird_military_macaw",
+        "NameOverride": "A fertile military macaw egg.",
+        "IconOverride": "assets/objects.png:3"
+        	}
+    		],
+		"Result":  [
+			{
+        		"Weight": 10,
+        		"Value": {
+            		"Type": "DGAItem",
+            		"Value": "staramy.reskinbirds/Military Macaw on Stand"
+        		}
+    	}
+    	],
+	},
+	{
+		"$ItemType": "CraftingRecipe",
+		"ID": "Hyacinth Macaw on Stand Recipe",
+		"IsCooking": "false",
+		"KnownByDefault": "true",
+		"Ingredients":  [
+		{
+	    "Type": "VanillaObject",
+ 		"Value": "709",
+ 	    },
+    	{
+        "Type": "ContextTag",
+ 		"Value": "bird_hyacinth_macaw",
+        "NameOverride": "A fertile hyacinth macaw egg.",
+        "IconOverride": "assets/objects.png:4"
+        	}
+    		],
+		"Result":  [
+			{
+        		"Weight": 10,
+        		"Value": {
+            		"Type": "DGAItem",
+            		"Value": "staramy.reskinbirds/Hyacinth Macaw on Stand"
+        		}
+    	}
+    	],
+	},
+	{
+		"$ItemType": "CraftingRecipe",
+		"ID": "Scarlet Macaw on Stand Recipe",
+		"IsCooking": "false",
+		"KnownByDefault": "true",
+		"Ingredients":  [
+			{
+	    "Type": "VanillaObject",
+ 		"Value": "709",
+ 	    },
+    	{
+        "Type": "ContextTag",
+ 		"Value": "bird_scarlet_macaw",
+        "NameOverride": "A fertile scarlet macaw egg.",
+        "IconOverride": "assets/objects.png:5"
+        	}
+    		],
+		"Result":  [
+			{
+        		"Weight": 10,
+        		"Value": {
+            		"Type": "DGAItem",
+            		"Value": "staramy.reskinbirds/Scarlet Macaw on Stand"
+        		}
+    	}
+    	],
+	},
+	{
+		"$ItemType": "CraftingRecipe",
+		"ID": "Blue and Gold Macaw on Stand Recipe",
+		"IsCooking": "false",
+		"KnownByDefault": "true",
+		"Ingredients":  [
+		{
+	    "Type": "VanillaObject",
+ 		"Value": "709",
+ 	    },
+    	{
+        "Type": "ContextTag",
+ 		"Value": "bird_blue_gold_macaw",
+        "NameOverride": "A fertile blue and gold macaw egg.",
+        "IconOverride": "assets/objects.png:6"
+        	}
+    		],
+		"Result":  [
+			{
+        		"Weight": 10,
+        		"Value": {
+            		"Type": "DGAItem",
+            		"Value": "staramy.reskinbirds/Blue and Gold Macaw on Stand"
+        		}
+    	}
+    	],
+	},
+	{
+		"$ItemType": "ShopEntry",
+		"ShopID": "FishShop",
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "staramy.reskinbirds/Seagull on Stand"
+		},
+		"MaxSold": 3,
+		"Cost": 1000,
+	},
+	{
+		"$ItemType": "ShopEntry",
+		"ShopID": "AnimalSupplies",
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "staramy.reskinbirds/Crow on Stand"
+		},
+		"MaxSold": 3,
+		"Cost": 1000,
+	},
+	{
+		"$ItemType": "ShopEntry",
+		"ShopID": "Carpenter",
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "staramy.reskinbirds/Horned Owl on Stand"
+		},
+		"MaxSold": 3,
+		"Cost": 1000,
+	},
+	{
+		"$ItemType": "ShopEntry",
+		"ShopID": "IslandMerchant",
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "staramy.reskinbirds/Hyacinth Macaw on Stand"
+		},
+		"MaxSold": 3,
+		"Cost": 3000,
+	},
+	{
+		"$ItemType": "ShopEntry",
+		"ShopID": "IslandMerchant",
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "staramy.reskinbirds/Scarlet Macaw on Stand"
+		},
+		"MaxSold": 3,
+		"Cost": 3000,
+	},
+	{
+		"$ItemType": "ShopEntry",
+		"ShopID": "IslandMerchant",
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "staramy.reskinbirds/Military Macaw on Stand"
+		},
+		"MaxSold": 3,
+		"Cost": 3000,
+	},
+	{
+		"$ItemType": "ShopEntry",
+		"ShopID": "IslandMerchant",
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "staramy.reskinbirds/Blue and Gold Macaw on Stand"
+		},
+		"MaxSold": 3,
+		"Cost": 3000,
+	}
+]
